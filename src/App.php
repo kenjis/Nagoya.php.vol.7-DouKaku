@@ -3,7 +3,7 @@
  * @author     Kenji Suzuki <https://github.com/kenjis>
  * @license    BSD License
  * @copyright  2014 Kenji Suzuki
- * @link       https://github.com/kenjis/Nagoya.php.vol7-DouKaku
+ * @link       https://github.com/kenjis/Nagoya.php.vol.7-DouKaku
  */
 
 namespace Nagoyaphp\Doukaku;
